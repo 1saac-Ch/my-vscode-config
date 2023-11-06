@@ -49,5 +49,8 @@
   "vim.easymotionDimColor": "#6B2C7D",
   "vim.highlightedyank.color": "#6B2C7D",
   "css.lint.unknownAtRules": "ignore",
-  "window.zoomLevel": -1
+  "window.zoomLevel": -1,
+  "tailwindCSS.includeLanguages": {
+    "blade": "html"
+  }
 }
